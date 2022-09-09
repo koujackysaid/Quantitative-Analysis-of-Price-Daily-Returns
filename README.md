@@ -1,4 +1,4 @@
-# Quantitative-Analysis-of-Price-Daily-Returns
+# Quantitative Analysis of stock price and daily return
 ### Aim at answering 3 questions to the stock price and the daily returns:
 - Can returns be described with a normal distribution?
 - Is directional bias in daily change?
