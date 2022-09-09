@@ -5,7 +5,7 @@
 - Can price movement be described as a random walk?
 
 ### to find can returns be described with a normal distribution?
-- using the mean, std, and number of datas of amzn_return to create a normal dist, then compare it with the real distribution by plotting histogram of stock price change with normal curve overlay
+- using the mean, std, and number of datas of amzn_return to create a normal dist, then compare it with the real distribution by plotting histogram of stock price change with normal curve overlay (AMZN used as an exmaple in Jupyter Notebook file, for py file, AAPL is used as an example)
 - apply hypothesis testing to test whether the sample drawn from a population is under normal dist
 - the null hypo assumes the sample is under normal distribution
 - for t-test scores, generally we need t test to be over +-2 to start rejecting
