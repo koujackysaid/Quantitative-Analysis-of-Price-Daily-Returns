@@ -18,4 +18,6 @@
 
 ### to find can price movement be described as a random walk?
 - if the price change is random, the best predictor is using today's price to predict tomorrow's price, should have no pattern we can find
-- create price lag as independent variables to explain the price change and apply least square method to conduct the regression
+- create price lag as independent variables to explain the price change and apply linear least square method to conduct the regression to get the coefficient of x1 and x2 (the lag1 and lag2, as independent variables in this case)
+- then use the findings to make prediction and compare with the sample
+- visualize the difference graphically, also find the standard error by calculating the Root Mean Square Error of the regression model
